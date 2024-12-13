@@ -1,0 +1,9 @@
+body {
+    background-color: #00a0fc; 
+}
+ul {
+    list-style-type: none; /* Remove os marcadores da lista */
+    padding: 0; /* Remove o espaçamento interno */
+    margin: 0; /* Remove o espaçamento externo */
+    display: flex; /* Exibe os itens em linha */
+}
